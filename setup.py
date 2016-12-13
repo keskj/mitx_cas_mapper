@@ -20,9 +20,9 @@ version = __import__('mitx_cas_mapper').VERSION
 setup(
     name='mitx_cas_mapper',
     version=version,
-    url='http://odl.mit.edu',
-    author='MITx',
-    author_email='mitx-help@mit.edu',
+    url='http://edx.metropolia.fi',
+    author='keskj',
+    author_email='helpdesk@metropolia.fi',
     description=('CAS attribute mapper'),
     license='Proprietary',
     packages=find_packages(exclude=EXCLUDE_FROM_PACKAGES),
