@@ -6,7 +6,7 @@ https://github.com/mitocw/django-cas.
 
 VERSION = "0.0.1"
 
-CAS_URI = 'http://www.yale.edu/tp/cas'
+CAS_URI = 'https://idp.metropolia.fi/cas'
 NSMAP = {'cas': CAS_URI}
 CAS = '{%s}' % CAS_URI
 
