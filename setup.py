@@ -20,7 +20,7 @@ version = __import__('mitx_cas_mapper').VERSION
 setup(
     name='mitx_cas_mapper',
     version=version,
-    url='http://edx.metropolia.fi',
+    url='http://testiedx.metropolia.fi',
     author='keskj',
     author_email='helpdesk@metropolia.fi',
     description=('CAS attribute mapper'),
